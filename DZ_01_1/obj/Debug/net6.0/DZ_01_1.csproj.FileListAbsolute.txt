@@ -1,0 +1,15 @@
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/bin/Debug/net6.0/DZ_01_1
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/bin/Debug/net6.0/DZ_01_1.deps.json
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/bin/Debug/net6.0/DZ_01_1.runtimeconfig.json
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/bin/Debug/net6.0/DZ_01_1.dll
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/bin/Debug/net6.0/DZ_01_1.pdb
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.csproj.AssemblyReference.cache
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.AssemblyInfoInputs.cache
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.AssemblyInfo.cs
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.csproj.CoreCompileInputs.cache
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.dll
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/refint/DZ_01_1.dll
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.pdb
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/DZ_01_1.genruntimeconfig.cache
+/Users/artemaleksanan/Desktop/Geekbrains/Обучение_C#/DZ C#/DZ_1/DZ_01_1/obj/Debug/net6.0/ref/DZ_01_1.dll
